@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ирина Семирина 📊
+# Ирина Семыкина 📊
 
 ### Product Data Scientist | Marketing Analytics Expert | SQL & Python
 
