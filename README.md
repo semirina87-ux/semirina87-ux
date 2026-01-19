@@ -9,11 +9,23 @@
 ![Python](https://img.shields.io/badge/Python-Pandas-3776AB)
 ![BI](https://img.shields.io/badge/BI_Systems-Pro-FFD93D)
 
-**Product Analytics** • **Marketing Mix Modeling** • **Data Infrastructure** • **Machine Learning**
+<br>
+
+<a href="https://github.com/semirina87-ux">
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" width="130" height="55">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/semirina7">
+  <img src="https://custom-icon-badges.demolab.com/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle" width="130" height="55">
+</a>
 
 </div>
 
+<br>
+
 ---
+
+<div align="left">
 
 ## 🎯 Профессиональный профиль
 
@@ -37,3 +49,5 @@
 📊 **Регулярная аналитика продаж** — отчёты по воронкам, LTV, оттоку и ключевым метрикам  
 🎯 **Data-driven решения** — аналитические инсайты как основа для стратегических решений  
 🔧 **Продвинутый SQL** — сложные запросы, оконные функции, CTE
+
+</div>
